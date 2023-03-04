@@ -1,0 +1,6 @@
+aiogram
+PyAutoGUI
+keyboard
+pywin32
+mss
+psutil
